@@ -17,8 +17,6 @@ The program should notify to the user what the BMI value means.
 
 The app. requires saving these information into database.  The app. notifies a user his/her current status of BMI, and target heart rate for his/her exercise intensity.  The app. should have capability to update BMI so that he/she knows how much his/her diet is successful.  In addition, the app. has capability to show daily meal plan for his/her diet.  The total Kcal in a day and each meal (quantity of meal must be notified. For example, 200grams of pasta with tomato sauce) should be displayed for a user.  This daily meal plan should be sent to his/her email so that he/she can keep this information for future analysis.  The app. also should have capability to show line graph that display his/her BMI alteration.
 
-**************
-
 # Important Announcement:
 
 Your program must include your name, date produced, and purpose of program on the top of your codes.
@@ -32,8 +30,6 @@ This is a project, Instructor will not help you to write codes, debug codes, or 
 Submission Guideline: 
 
 Drop your .zip file that includes all of the code you developed on Blackboard. No files accepted after due date through any other method.
-
-**************
 
 # Presentation: 
 
